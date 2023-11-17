@@ -2,3 +2,57 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.img-Wrapper {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: center;
+  align-items: center;
+
+  .panel-1 {
+    background-color: black;
+    color: white;
+    height: 650px;
+    width: 50px;
+    border-radius: 15px;
+  }
+
+  .panel-2 {
+    background-color: rgb(156, 199, 77);
+    color: white;
+    height: 650px;
+    width: 50px;
+    border-radius: 15px;
+  }
+
+  .panel-3 {
+    background-color: rgb(77, 199, 118);
+    color: white;
+    height: 650px;
+    width: 50px;
+    border-radius: 15px;
+  }
+
+  .panel-4 {
+    background-color: rgb(218, 176, 176);
+    color: white;
+    height: 650px;
+    width: 50px;
+    border-radius: 15px;
+  }
+
+  .panel-5 {
+    background-color: rgb(148, 135, 135);
+    color: white;
+    height: 650px;
+    width: 50px;
+    border-radius: 15px;
+  }
+
+  .active {
+    width: 50%;
+  }
+}
