@@ -34,10 +34,11 @@
   <ul>
   <li><a href="https://en.wikipedia.org/wiki/HTML">Html</a></li>
   <li><a href="https://en.wikipedia.org/wiki/CSS">Css</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Sass_(style_sheet_language)">Scss</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Sass_(style_sheet_language)">Scss</a></li>
   <li><a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a></li>
   <li><a href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a></li>
   <li><a href="https://stylelint.io/">Html/CSS Linters</a></li>
+  <li><a href="https://eslint.org/">Html/TsLinters</a></li>
   </ul>
 </details>
 
