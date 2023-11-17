@@ -1,6 +1,7 @@
 body {
   padding: 0;
   margin: 0;
+  background-image: url(https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D);
 }
 
 .img-Wrapper {
@@ -12,48 +13,29 @@ body {
   text-align: center;
   align-items: center;
 }
-
-.img-Wrapper .panel-1 {
+.img-Wrapper #pan-1 {
+  background-image: url(https://images.unsplash.com/photo-1700041829045-530ffd99f435?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.img-Wrapper #pan-2 {
+  background-image: url(https://images.unsplash.com/photo-1682686580452-37f1892ee5e8?q=80&w=1075&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.img-Wrapper #pan-3 {
+  background-image: url(https://images.unsplash.com/photo-1682688759350-050208b1211c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.img-Wrapper #pan-4 {
+  background-image: url(https://images.unsplash.com/photo-1585011664466-b7bbe92f34ef?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.img-Wrapper #pan-5 {
+  background-image: url(https://plus.unsplash.com/premium_photo-1673657332591-735cc4acaee0?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.img-Wrapper .panel {
   background-color: black;
   color: white;
-  height: 650px;
-  width: 50px;
+  height: 660px;
   border-radius: 15px;
 }
-
-.img-Wrapper .panel-2 {
-  background-color: rgb(156, 199, 77);
-  color: white;
-  height: 650px;
-  width: 50px;
-  border-radius: 15px;
-}
-
-.img-Wrapper .panel-3 {
-  background-color: rgb(77, 199, 118);
-  color: white;
-  height: 650px;
-  width: 50px;
-  border-radius: 15px;
-}
-
-.img-Wrapper .panel-4 {
-  background-color: rgb(218, 176, 176);
-  color: white;
-  height: 650px;
-  width: 50px;
-  border-radius: 15px;
-}
-
-.img-Wrapper .panel-5 {
-  background-color: rgb(148, 135, 135);
-  color: white;
-  height: 650px;
-  width: 50px;
-  border-radius: 15px;
-}
-
 .img-Wrapper .active {
+  height: 660px;
   width: 50%;
 }
 
